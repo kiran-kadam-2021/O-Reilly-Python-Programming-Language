@@ -7,4 +7,3 @@ with open("Data/people-100.csv", "r") as file:
         num += 1
         if num == 5:
             break
-    
